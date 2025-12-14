@@ -3,5 +3,6 @@
 int main() {
     std::cout << "Hello, World!" << std::endl;
     std::cout << "Welcome to GitHub!" << std::endl;
+    std::cout << "Let's code together!" << std::endl;
     return 0;
 }
